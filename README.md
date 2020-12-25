@@ -4,6 +4,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Swift   44 mins         ████████████████████████▒   97.99 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
