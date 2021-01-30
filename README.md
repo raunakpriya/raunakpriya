@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Swift   1 hr 26 mins    ████████████████░░░░░░░░░   64.37 % 
-Cocoa   48 mins         █████████░░░░░░░░░░░░░░░░   35.63 % 
+Cocoa   2 hrs 22 mins   █████████████░░░░░░░░░░░░   52.59 % 
+Swift   2 hrs 8 mins    ████████████░░░░░░░░░░░░░   47.41 % 
 ```
 <!--END_SECTION:waka-->
